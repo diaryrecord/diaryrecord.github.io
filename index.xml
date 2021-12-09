@@ -5,6 +5,16 @@
     <link>https://diaryrecord.github.io/</link>
     <description>Recent content on Long Luo&#39;s Diary Record</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://diaryrecord.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Dec 2021 16:25:17 +0800</lastBuildDate><atom:link href="https://diaryrecord.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://diaryrecord.github.io/post/test/</link>
+      <pubDate>Wed, 08 Dec 2021 16:25:17 +0800</pubDate>
+      
+      <guid>https://diaryrecord.github.io/post/test/</guid>
+      <description>Test 123456</description>
+    </item>
+    
   </channel>
 </rss>
