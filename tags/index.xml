@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Long Luo&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>Long Luo</copyright>
     <lastBuildDate>Mon, 11 Jan 2021 22:04:21 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diary</title>
@@ -17,72 +18,9 @@
     </item>
     
     <item>
-      <title>单身</title>
-      <link>https://diaryrecord.github.io/tags/%E5%8D%95%E8%BA%AB/</link>
-      <pubDate>Mon, 28 Aug 2017 23:01:38 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E5%8D%95%E8%BA%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>周末</title>
-      <link>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</link>
-      <pubDate>Sun, 09 Jul 2017 23:18:11 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日记</title>
-      <link>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</link>
-      <pubDate>Sun, 09 Jul 2017 23:18:11 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>加班</title>
-      <link>https://diaryrecord.github.io/tags/%E5%8A%A0%E7%8F%AD/</link>
-      <pubDate>Sat, 08 Jul 2017 23:38:22 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E5%8A%A0%E7%8F%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>羽毛球</title>
-      <link>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</link>
-      <pubDate>Fri, 07 Jul 2017 22:45:15 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>大雨</title>
-      <link>https://diaryrecord.github.io/tags/%E5%A4%A7%E9%9B%A8/</link>
-      <pubDate>Mon, 03 Jul 2017 22:51:37 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E5%A4%A7%E9%9B%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>运动</title>
-      <link>https://diaryrecord.github.io/tags/%E8%BF%90%E5%8A%A8/</link>
-      <pubDate>Sun, 02 Jul 2017 23:50:30 +0000</pubDate>
-      
-      <guid>https://diaryrecord.github.io/tags/%E8%BF%90%E5%8A%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Time</title>
       <link>https://diaryrecord.github.io/tags/time/</link>
-      <pubDate>Sun, 14 May 2017 21:57:45 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2016 22:18:58 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/tags/time/</guid>
       <description></description>
@@ -386,6 +324,15 @@
     </item>
     
     <item>
+      <title>羽毛球</title>
+      <link>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</link>
+      <pubDate>Sat, 09 Jul 2016 22:10:56 +0000</pubDate>
+      
+      <guid>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Work</title>
       <link>https://diaryrecord.github.io/tags/work/</link>
       <pubDate>Fri, 08 Jul 2016 20:22:06 +0000</pubDate>
@@ -463,6 +410,24 @@
       <pubDate>Mon, 20 Jun 2016 22:12:41 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/tags/honor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>周末</title>
+      <link>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</link>
+      <pubDate>Fri, 17 Jun 2016 23:15:53 +0000</pubDate>
+      
+      <guid>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>日记</title>
+      <link>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Fri, 17 Jun 2016 23:15:53 +0000</pubDate>
+      
+      <guid>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
     

@@ -772,11 +772,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E5%8D%95%E8%BA%AB/</loc>
-    <lastmod>2017-08-28T23:01:38+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-08-27-week-35-sun/</loc>
     <lastmod>2017-08-27T04:17:29+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -807,32 +802,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</loc>
-    <lastmod>2017-07-09T23:18:11+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2017-07-09T23:18:11+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-07-08-week-27-sat/</loc>
     <lastmod>2017-07-08T23:38:22+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E5%8A%A0%E7%8F%AD/</loc>
-    <lastmod>2017-07-08T23:38:22+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-07-07-week-27-fri/</loc>
-    <lastmod>2017-07-07T22:45:15+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</loc>
     <lastmod>2017-07-07T22:45:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -857,17 +832,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E5%A4%A7%E9%9B%A8/</loc>
-    <lastmod>2017-07-03T22:51:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-07-02-week-26-sun/</loc>
-    <lastmod>2017-07-02T23:50:30+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diaryrecord.github.io/tags/%E8%BF%90%E5%8A%A8/</loc>
     <lastmod>2017-07-02T23:50:30+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -943,11 +908,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-05-14-week-19-sun/</loc>
-    <lastmod>2017-05-14T21:57:45+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diaryrecord.github.io/tags/time/</loc>
     <lastmod>2017-05-14T21:57:45+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1297,17 +1257,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://diaryrecord.github.io/post/template/</loc>
-    <lastmod>2017-02-19T19:36:59+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-02-18-week-7-sat/</loc>
     <lastmod>2017-02-18T23:29:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/post/2016/2016-09-25-269-week-39-sun-a-week-past/</loc>
+    <lastmod>2016-09-25T22:18:58+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diaryrecord.github.io/tags/time/</loc>
     <lastmod>2016-09-25T22:18:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1797,6 +1757,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://diaryrecord.github.io/tags/%E7%BE%BD%E6%AF%9B%E7%90%83/</loc>
+    <lastmod>2016-07-09T22:10:56+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://diaryrecord.github.io/post/2016/2016-07-08-190-week-27-fri-need-work-harder/</loc>
     <lastmod>2016-07-08T20:22:06+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1948,6 +1913,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/post/2016/2016-06-17-169-week-24-fri-to-leave-at-any-time/</loc>
+    <lastmod>2016-06-17T23:15:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diaryrecord.github.io/tags/%E5%91%A8%E6%9C%AB/</loc>
+    <lastmod>2016-06-17T23:15:53+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diaryrecord.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2016-06-17T23:15:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
