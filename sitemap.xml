@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://diaryrecord.github.io/post/2020/2020-01-11-mon-aniexty/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <loc>https://diaryrecord.github.io/post/2021/2021-12-10-friday-still-waste-time/</loc>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/categories/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/tags/diary/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/categories/diary/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/post/</loc>
-    <lastmod>2021-01-11T22:04:21+00:00</lastmod>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://diaryrecord.github.io/tags/</loc>
+    <lastmod>2021-12-10T22:47:58+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://diaryrecord.github.io/post/2020/2020-01-11-mon-aniexty/</loc>
     <lastmod>2021-01-11T22:04:21+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -759,11 +764,6 @@
   </url><url>
     <loc>https://diaryrecord.github.io/post/2017/2017-08-29-week-35-feb/</loc>
     <lastmod>2017-08-29T23:33:38+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://diaryrecord.github.io/post/2017/2017-08-28-week-28-mon/</loc>
-    <lastmod>2017-08-28T23:01:38+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
