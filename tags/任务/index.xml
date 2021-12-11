@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>任务 on Long Luo&#39;s Diary</title>
@@ -7,21 +6,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Long Luo</copyright>
-    <lastBuildDate>Tue, 23 Aug 2016 23:44:57 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/%E4%BB%BB%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2016 23:44:57 +0000</lastBuildDate>
+    <atom:link href="https://diaryrecord.github.io/tags/%E4%BB%BB%E5%8A%A1/" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2016-08-23 236 Week 34 Feb 好多任务没有开始...</title>
       <link>https://diaryrecord.github.io/post/2016/2016-08-23-236-week-34-feb-too-much-things/</link>
       <pubDate>Tue, 23 Aug 2016 23:44:57 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/post/2016/2016-08-23-236-week-34-feb-too-much-things/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;By Long Luo&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;今天是2016年08月23日，星期二，Page 236 of 366。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;上午搞定了2款表盘，不过并没有写完那篇自定义View的文章，决定留到这2天写完。&lt;/p&gt;
-&lt;p&gt;关于自定义模拟时钟，还剩下的任务是&lt;em&gt;&lt;strong&gt;指针动画&lt;/strong&gt;&lt;/em&gt;的实现，这个希望明天有所突破！&lt;/p&gt;
-&lt;p&gt;下午的话，效率不够高，最近2天都是上午效率很高，但是下午隔了段时间效率就降低了，这个急需改正！&lt;/p&gt;
-&lt;p&gt;回顾下我的Task List，还有很多很多没有着手做啊！&lt;/p&gt;</description>
+      <description>
+        <![CDATA[
+        <p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月23日，星期二，Page 236 of 366。</p>
+<hr>
+<p>上午搞定了2款表盘，不过并没有写完那篇自定义View的文章，决定留到这2天写完。</p>
+<p>关于自定义模拟时钟，还剩下的任务是<em><strong>指针动画</strong></em>的实现，这个希望明天有所突破！</p>
+<p>下午的话，效率不够高，最近2天都是上午效率很高，但是下午隔了段时间效率就降低了，这个急需改正！</p>
+<p>回顾下我的Task List，还有很多很多没有着手做啊！</p>
+<ol>
+<li>找到一个适合的另一半，还不知道在哪里&hellip;</li>
+<li>Android各部分的总结文章</li>
+<li>2015做过的3个App项目经验及技术总结</li>
+<li>很多需要写完的东西&hellip;</li>
+</ol>
+<p>&hellip;&hellip;</p>
+<p>总之要抓紧，提高效率，节省时间啊！</p>
+<p><em><strong>By Long Luo at 2016-8-23 23:48:21 ~ 2016-8-23 23:53:30 @Shenzhen, China.</strong></em></p>
+        
+        ]]>
+      </description>
     </item>
+    
     
   </channel>
 </rss>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>牙齿 on Long Luo&#39;s Diary</title>
@@ -7,15 +6,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Long Luo</copyright>
-    <lastBuildDate>Mon, 15 Aug 2016 21:53:03 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/%E7%89%99%E9%BD%BF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2016 21:53:03 +0000</lastBuildDate>
+    <atom:link href="https://diaryrecord.github.io/tags/%E7%89%99%E9%BD%BF/" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2016-08-15 228 Week 33 Mon 牙疼</title>
       <link>https://diaryrecord.github.io/post/2016/2016-08-15-228-week-33-mon-toothache/</link>
       <pubDate>Mon, 15 Aug 2016 21:53:03 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/post/2016/2016-08-15-228-week-33-mon-toothache/</guid>
-      <description>By Long Luo 今天是2016年08月15日，星期一，Page 228 of 366。</description>
+      <description>
+        <![CDATA[
+        <p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月15日，星期一，Page 228 of 366。</p>
+<hr>
+
+        
+        ]]>
+      </description>
     </item>
+    
     
   </channel>
 </rss>

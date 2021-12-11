@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>挣扎 on Long Luo&#39;s Diary</title>
@@ -7,15 +6,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Long Luo</copyright>
-    <lastBuildDate>Tue, 02 Aug 2016 16:17:57 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/%E6%8C%A3%E6%89%8E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2016 16:17:57 +0000</lastBuildDate>
+    <atom:link href="https://diaryrecord.github.io/tags/%E6%8C%A3%E6%89%8E/" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2016-08-01 214 Week 31 Mon 挣扎！</title>
       <link>https://diaryrecord.github.io/post/2016/2016-08-01-214-week-31-mon-struggle/</link>
       <pubDate>Tue, 02 Aug 2016 16:17:57 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/post/2016/2016-08-01-214-week-31-mon-struggle/</guid>
-      <description>By Long Luo 今天是2016年08月01日，星期一，Page 214 of 366。 By Long Luo at 2016-8-1 22:58:19 ~ 2016-8-1 23:27:56 @Shenzhen, China.</description>
+      <description>
+        <![CDATA[
+        <p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月01日，星期一，Page 214 of 366。</p>
+<hr>
+<p><em><strong>By Long Luo at 2016-8-1 22:58:19 ~ 2016-8-1 23:27:56 @Shenzhen, China.</strong></em></p>
+
+        
+        ]]>
+      </description>
     </item>
+    
     
   </channel>
 </rss>

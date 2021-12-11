@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Busy on Long Luo&#39;s Diary</title>
@@ -7,15 +6,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Long Luo</copyright>
-    <lastBuildDate>Wed, 10 Aug 2016 23:56:24 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/busy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2016 23:56:24 +0000</lastBuildDate>
+    <atom:link href="https://diaryrecord.github.io/tags/busy/" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2016-08-10 223 Week 32 Wed 忙碌的一天！</title>
       <link>https://diaryrecord.github.io/post/2016/2016-08-10-223-week-32-wed-busy/</link>
       <pubDate>Wed, 10 Aug 2016 23:56:24 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/post/2016/2016-08-10-223-week-32-wed-busy/</guid>
-      <description>By Long Luo 今天是2016年08月10日，星期三，Page 223 of 366。 今天是最近几个月来最忙的一天，具体体现在一天之中基本上没有休息几分钟，晚上搞</description>
+      <description>
+        <![CDATA[
+        <p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月10日，星期三，Page 223 of 366。</p>
+<hr>
+<p>今天是最近几个月来最忙的一天，具体体现在一天之中基本上没有休息几分钟，晚上搞到10点半才回去。</p>
+<p>今天也是收获很大的一天，虽然任务清单上还有2项任务没有完成。</p>
+<p>每天列任务清单是保证每一天都充实的保证！</p>
+<p><em><strong>By Long Luo at 2016-8-11 00:03:21 ~ 2016-8-11 00:05:03 @Shenzhen, China.</strong></em></p>
+
+        
+        ]]>
+      </description>
     </item>
+    
     
   </channel>
 </rss>

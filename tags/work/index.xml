@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Long Luo&#39;s Diary</title>
@@ -7,27 +6,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Long Luo</copyright>
-    <lastBuildDate>Fri, 08 Jul 2016 20:22:06 +0000</lastBuildDate><atom:link href="https://diaryrecord.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2016 20:22:06 +0000</lastBuildDate>
+    <atom:link href="https://diaryrecord.github.io/tags/work/" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>2016-07-08 190 Week 27 Fri 需要更有效率的工作！</title>
       <link>https://diaryrecord.github.io/post/2016/2016-07-08-190-week-27-fri-need-work-harder/</link>
       <pubDate>Fri, 08 Jul 2016 20:22:06 +0000</pubDate>
       
       <guid>https://diaryrecord.github.io/post/2016/2016-07-08-190-week-27-fri-need-work-harder/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;By Long Luo&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;今天是2016年07月08日，星期五，Page 190 of 366。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;本来应该周五晚上就写的这篇日志，一直拖到本周日才来填坑。&lt;/p&gt;
-&lt;p&gt;最近工作上的工作都很简单，很轻松，有很多时间可以去学习自己想学习的。&lt;/p&gt;
-&lt;p&gt;上午把之前出现的Watchface遗留的时区相关bug解决了，心情大好！&lt;/p&gt;
-&lt;p&gt;剩下的时间把之前公司做的一个项目重新拿来认真看了下，解决一些细节的疑问。&lt;/p&gt;
-&lt;p&gt;不过在工作中，我又发现我的一个问题：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;专注度不够长的问题。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;看完一段时间之后，我就觉得脑子开始走神了，精神开始不集中了，于是开始想上网了，看新闻了。&lt;/p&gt;
-&lt;p&gt;所以如果想提升自己，就需要解决掉&lt;em&gt;&lt;strong&gt;专注度不够持久&lt;/strong&gt;&lt;/em&gt;的问题！&lt;/p&gt;</description>
+      <description>
+        <![CDATA[
+        <p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年07月08日，星期五，Page 190 of 366。</p>
+<hr>
+<p>本来应该周五晚上就写的这篇日志，一直拖到本周日才来填坑。</p>
+<p>最近工作上的工作都很简单，很轻松，有很多时间可以去学习自己想学习的。</p>
+<p>上午把之前出现的Watchface遗留的时区相关bug解决了，心情大好！</p>
+<p>剩下的时间把之前公司做的一个项目重新拿来认真看了下，解决一些细节的疑问。</p>
+<p>不过在工作中，我又发现我的一个问题：</p>
+<blockquote>
+<p>专注度不够长的问题。</p>
+</blockquote>
+<p>看完一段时间之后，我就觉得脑子开始走神了，精神开始不集中了，于是开始想上网了，看新闻了。</p>
+<p>所以如果想提升自己，就需要解决掉<em><strong>专注度不够持久</strong></em>的问题！</p>
+<p>近期任务：</p>
+<ol>
+<li>把之前做的几个项目所有细节都了然于胸；</li>
+<li>把<a href="https://book.douban.com/subject/3004255/">《编程之美》</a>重新看一遍</li>
+</ol>
+<p>其实如果有时间，还想把<a href="https://book.douban.com/subject/2986872/">《简易逻辑学》</a>， <a href="https://book.douban.com/subject/1895447/">《如何提问》</a>以及<a href="https://book.douban.com/subject/26649050/">《App研发录：架构设计、Crash分析和竞品技术分析》</a>读完，现在一大问题就是时间不够啊，都看不完书了。</p>
+<p><em><strong>By Long Luo at 2016-7-10 21:52:36 ~ 2016-7-10 22:02:45 @Shenzhen, China.</strong></em></p>
+        
+        ]]>
+      </description>
     </item>
+    
     
   </channel>
 </rss>
