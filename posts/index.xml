@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Moments of Daily Life</title>
+        <link>https://diaryrecord.github.io/posts/</link>
+        <description>所有文章 | Moments of Daily Life</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 19:42:09 &#43;0800</lastBuildDate><atom:link href="https://diaryrecord.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello</title>
+    <link>https://diaryrecord.github.io/hello/</link>
+    <pubDate>Sat, 02 Dec 2023 19:42:09 &#43;0800</pubDate><author>
+        <name>Frank</name>
+    </author><guid>https://diaryrecord.github.io/hello/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
