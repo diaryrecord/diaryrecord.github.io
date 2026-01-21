@@ -1,14 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Moments of Daily Life</title>
-        <link>https://diaryrecord.github.io/posts/</link>
-        <description>所有文章 | Moments of Daily Life</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 19:42:09 &#43;0800</lastBuildDate><atom:link href="https://diaryrecord.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Hello</title>
-    <link>https://diaryrecord.github.io/hello/</link>
-    <pubDate>Sat, 02 Dec 2023 19:42:09 &#43;0800</pubDate><author>
-        <name>Frank</name>
-    </author><guid>https://diaryrecord.github.io/hello/</guid>
+        <title>所有文章 - Diary Moments</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 22 Jan 2026 01:01:20 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2026 01 19</title>
+    <link>http://localhost:1313/2026-01-19/</link>
+    <pubDate>Thu, 22 Jan 2026 01:01:20 &#43;0800</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/2026-01-19/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2026 01 01</title>
+    <link>http://localhost:1313/2026-01-01/</link>
+    <pubDate>Thu, 22 Jan 2026 01:01:16 &#43;0800</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/2026-01-01/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2026 01 02</title>
+    <link>http://localhost:1313/2026-01-02/</link>
+    <pubDate>Thu, 22 Jan 2026 01:01:13 &#43;0800</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://localhost:1313/2026-01-02/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

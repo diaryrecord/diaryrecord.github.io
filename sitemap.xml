@@ -2,10 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://diaryrecord.github.io/hello/</loc><lastmod>2023-12-02T19:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diaryrecord.github.io/</loc><lastmod>2023-12-02T19:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diaryrecord.github.io/posts/</loc><lastmod>2023-12-02T19:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://diaryrecord.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diaryrecord.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diaryrecord.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://diaryrecord.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://localhost:1313/2026-01-19/</loc><lastmod>2026-01-22T01:01:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2026-01-22T01:01:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2026-01-22T01:01:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/2026-01-01/</loc><lastmod>2026-01-22T01:01:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/2026-01-02/</loc><lastmod>2026-01-22T01:01:13&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
