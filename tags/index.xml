@@ -3,5 +3,76 @@
         <title>Tags - 标签 - Diary Moments</title>
         <link>http://localhost:1313/tags/</link>
         <description>Tags - 标签 - Diary Moments</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 22 Jan 2026 22:55:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>2026</title>
+    <link>http://localhost:1313/tags/2026/</link>
+    <pubDate>Thu, 22 Jan 2026 22:55:54 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/2026/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Dairy</title>
+    <link>http://localhost:1313/tags/dairy/</link>
+    <pubDate>Thu, 22 Jan 2026 22:55:54 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/dairy/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Diary</title>
+    <link>http://localhost:1313/tags/diary/</link>
+    <pubDate>Wed, 22 Dec 2021 14:58:28 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/diary/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Time</title>
+    <link>http://localhost:1313/tags/time/</link>
+    <pubDate>Sun, 25 Sep 2016 22:18:58 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/time/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>紧张</title>
+    <link>http://localhost:1313/tags/%E7%B4%A7%E5%BC%A0/</link>
+    <pubDate>Sat, 24 Sep 2016 23:31:59 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E7%B4%A7%E5%BC%A0/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>经验</title>
+    <link>http://localhost:1313/tags/%E7%BB%8F%E9%AA%8C/</link>
+    <pubDate>Fri, 23 Sep 2016 21:55:49 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E7%BB%8F%E9%AA%8C/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>书</title>
+    <link>http://localhost:1313/tags/%E4%B9%A6/</link>
+    <pubDate>Fri, 23 Sep 2016 21:55:49 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E4%B9%A6/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>情绪</title>
+    <link>http://localhost:1313/tags/%E6%83%85%E7%BB%AA/</link>
+    <pubDate>Thu, 22 Sep 2016 23:17:35 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E6%83%85%E7%BB%AA/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>演讲</title>
+    <link>http://localhost:1313/tags/%E6%BC%94%E8%AE%B2/</link>
+    <pubDate>Wed, 21 Sep 2016 23:52:59 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E6%BC%94%E8%AE%B2/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>假期</title>
+    <link>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</link>
+    <pubDate>Sat, 17 Sep 2016 23:19:58 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

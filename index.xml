@@ -2,29 +2,85 @@
     <channel>
         <title>Diary Moments</title>
         <link>http://localhost:1313/</link>
-        <description>My Diary</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 22 Jan 2026 01:01:20 &#43;0800</lastBuildDate>
+        <description>Hugo DoIt 主题官方文档</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 22 Jan 2026 22:59:26 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>2026 01 19</title>
-    <link>http://localhost:1313/2026-01-19/</link>
-    <pubDate>Thu, 22 Jan 2026 01:01:20 &#43;0800</pubDate><author>
-        <name>Nobody</name>
-    </author><guid>http://localhost:1313/2026-01-19/</guid>
+    <title>2026 01 22 Thursday</title>
+    <link>http://localhost:1313/2026-01-22/</link>
+    <pubDate>Thu, 22 Jan 2026 22:55:54 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2026-01-22/</guid>
+    <description><![CDATA[<p>Today I rebuild this website</p>]]></description>
+</item><item>
+    <title>2026 01 02</title>
+    <link>http://localhost:1313/2026-01-02/</link>
+    <pubDate>Thu, 22 Jan 2026 22:59:26 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2026-01-02/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>2026 01 01</title>
     <link>http://localhost:1313/2026-01-01/</link>
-    <pubDate>Thu, 22 Jan 2026 01:01:16 &#43;0800</pubDate><author>
-        <name>Nobody</name>
+    <pubDate>Thu, 22 Jan 2026 22:59:23 &#43;0800</pubDate><author>
+        <name>PCloud</name>
     </author><guid>http://localhost:1313/2026-01-01/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>2026 01 02</title>
-    <link>http://localhost:1313/2026-01-02/</link>
-    <pubDate>Thu, 22 Jan 2026 01:01:13 &#43;0800</pubDate><author>
-        <name>Nobody</name>
-    </author><guid>http://localhost:1313/2026-01-02/</guid>
+    <title>2021 12 22 Tue</title>
+    <link>http://localhost:1313/2021-12-22-tue/</link>
+    <pubDate>Wed, 22 Dec 2021 14:58:28 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-22-tue/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 15 Wed</title>
+    <link>http://localhost:1313/2021-12-15-wed/</link>
+    <pubDate>Thu, 16 Dec 2021 10:56:52 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-15-wed/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 15 Tue</title>
+    <link>http://localhost:1313/2021-12-15-tue/</link>
+    <pubDate>Wed, 15 Dec 2021 08:02:45 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-15-tue/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 13 Mon 电子书支持mobi, azw格式</title>
+    <link>http://localhost:1313/2021-12-13-mon-ebookreader/</link>
+    <pubDate>Mon, 13 Dec 2021 23:58:57 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-13-mon-ebookreader/</guid>
+    <description><![CDATA[<p><em><strong>By LongLuo</strong></em></p>
+<p>今天是2021年12月13日，星期一。</p>
+<p>今天主要工作就是给之前的电子书增加了mobi, azw, azw3格式支持，重构了之前的项目。</p>
+<p>mobi, azw使用了libmobi开源库，ndk编译，其本质还是将mobi和azw格式转换为epub格式，然后再调用epub阅读器来完成电子书阅读，这倒是我没想到的。</p>]]></description>
+</item><item>
+    <title>2021 12 12 Sun 打羽毛球 &amp; 拍照</title>
+    <link>http://localhost:1313/2021-12-12-sun-badminton-and-wedding-photo/</link>
+    <pubDate>Sun, 12 Dec 2021 23:13:37 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-12-sun-badminton-and-wedding-photo/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2021年12月12日，星期天。</p>
+<p>昨天晚上大概1点左右睡了，然后早上7点20被闹钟吵醒了，但是关了闹钟继续赖床到8点半，终于从床上爬起来。</p>]]></description>
+</item><item>
+    <title>2021 12 11 Sat 颓废 &#43; 失败的一天</title>
+    <link>http://localhost:1313/2021-12-11-sat/</link>
+    <pubDate>Sat, 11 Dec 2021 23:23:37 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-11-sat/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2021年12月11日，星期六。</p>]]></description>
+</item><item>
+    <title>2021 12 09 Thu </title>
+    <link>http://localhost:1313/2021-12-09-thu-/</link>
+    <pubDate>Fri, 10 Dec 2021 23:10:35 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-09-thu-/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

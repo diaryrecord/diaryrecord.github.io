@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>问题 - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/%E9%97%AE%E9%A2%98/</link>
+        <description>问题 - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Jul 2016 22:54:40 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%97%AE%E9%A2%98/" rel="self" type="application/rss+xml" /><item>
+    <title>2016-07-28 210 Week 30 Thu 找到问题的根源</title>
+    <link>http://localhost:1313/2016-07-28-210-week-30-thu-find-the-root-cause/</link>
+    <pubDate>Thu, 28 Jul 2016 22:54:40 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2016-07-28-210-week-30-thu-find-the-root-cause/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年07月28日，星期四，Page 210 of 366。</p>
+<hr>
+<p>看到7.28，想到这么快一个月就要过去了，好恐怖！</p>
+<p>先说说今天的工作吧！</p>
+<p>今天下班前我提交了代码，结果发现编译不过，我百思不得其解，没有找到原因。当时我觉得我本地在Eclipse和Android Studio都能编译通过，为什么在服务器自动化编译就失败了呢？</p>
+<p>比较了代码，当时怀疑服务器编译出错了！</p>
+<p>下班之后，溜达了好几圈，决定从源头排查，回溯代码。终于发现原因是导入的package不同，结果却是没有找到。</p>
+<p>Okay！问题找到！</p>
+<p>所以说，<em><strong>很多情况下你需要找到真正出错的原因是什么，导致你现状的原因是啥？为了改变这个现状，你需要做些什么？</strong></em></p>]]></description>
+</item></channel>
+</rss>

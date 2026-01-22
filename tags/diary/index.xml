@@ -1,0 +1,93 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Diary - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/diary/</link>
+        <description>Diary - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 22 Dec 2021 14:58:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/diary/" rel="self" type="application/rss+xml" /><item>
+    <title>2021 12 22 Tue</title>
+    <link>http://localhost:1313/2021-12-22-tue/</link>
+    <pubDate>Wed, 22 Dec 2021 14:58:28 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-22-tue/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 15 Wed</title>
+    <link>http://localhost:1313/2021-12-15-wed/</link>
+    <pubDate>Thu, 16 Dec 2021 10:56:52 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-15-wed/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 15 Tue</title>
+    <link>http://localhost:1313/2021-12-15-tue/</link>
+    <pubDate>Wed, 15 Dec 2021 08:02:45 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-15-tue/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2021 12 13 Mon 电子书支持mobi, azw格式</title>
+    <link>http://localhost:1313/2021-12-13-mon-ebookreader/</link>
+    <pubDate>Mon, 13 Dec 2021 23:58:57 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-13-mon-ebookreader/</guid>
+    <description><![CDATA[<p><em><strong>By LongLuo</strong></em></p>
+<p>今天是2021年12月13日，星期一。</p>
+<p>今天主要工作就是给之前的电子书增加了mobi, azw, azw3格式支持，重构了之前的项目。</p>
+<p>mobi, azw使用了libmobi开源库，ndk编译，其本质还是将mobi和azw格式转换为epub格式，然后再调用epub阅读器来完成电子书阅读，这倒是我没想到的。</p>]]></description>
+</item><item>
+    <title>2021 12 12 Sun 打羽毛球 &amp; 拍照</title>
+    <link>http://localhost:1313/2021-12-12-sun-badminton-and-wedding-photo/</link>
+    <pubDate>Sun, 12 Dec 2021 23:13:37 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-12-sun-badminton-and-wedding-photo/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2021年12月12日，星期天。</p>
+<p>昨天晚上大概1点左右睡了，然后早上7点20被闹钟吵醒了，但是关了闹钟继续赖床到8点半，终于从床上爬起来。</p>]]></description>
+</item><item>
+    <title>2021 12 11 Sat 颓废 &#43; 失败的一天</title>
+    <link>http://localhost:1313/2021-12-11-sat/</link>
+    <pubDate>Sat, 11 Dec 2021 23:23:37 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-11-sat/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2021年12月11日，星期六。</p>]]></description>
+</item><item>
+    <title>2021 12 10 Fri 还是在浪费时间！</title>
+    <link>http://localhost:1313/2021-12-10-friday-still-waste-time/</link>
+    <pubDate>Fri, 10 Dec 2021 22:47:58 &#43;0800</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2021-12-10-friday-still-waste-time/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2021年12月10日，星期五。</p>]]></description>
+</item><item>
+    <title>2020-01-11-Mon-Aniexty</title>
+    <link>http://localhost:1313/2020-01-11-mon-aniexty/</link>
+    <pubDate>Mon, 11 Jan 2021 22:04:21 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2020-01-11-mon-aniexty/</guid>
+    <description><![CDATA[<p>今天是2021年01月11日，11/365。</p>
+<p>今天整整一天都没有做啥，非常失败！</p>
+<p>一日之计在于晨，真是对的。</p>
+<p>晚上2点才睡，导致早上8点醒来之后并没有马上爬起来。</p>]]></description>
+</item><item>
+    <title>2020-01-10-Sun-Weekend-With-MMC</title>
+    <link>http://localhost:1313/2020-01-10-sun-weekend-with-mmc/</link>
+    <pubDate>Sun, 10 Jan 2021 23:46:51 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2020-01-10-sun-weekend-with-mmc/</guid>
+    <description><![CDATA[<p>今天是2021年01月10日，10/365。</p>
+<p>今天星期天，早上本来7:36的闹钟响了，但是一直赖床到7:50多，赶紧起床然后去打球。</p>
+<p>到羽毛球馆已经8:20了，但由于昨晚没有休息好，实际上并没有打好。</p>]]></description>
+</item><item>
+    <title>2020-01-09-Sat-Go-To-LeCong</title>
+    <link>http://localhost:1313/2020-01-09-sat-go-to-shunde/</link>
+    <pubDate>Sat, 09 Jan 2021 23:36:19 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2020-01-09-sat-go-to-shunde/</guid>
+    <description><![CDATA[<p>今天是2021年01月09日，9/365。</p>
+<p>今天早上7点半起来了，但是赖床到8点。</p>
+<p>吃完早餐，赶上8点半的顺风车去顺德乐从家具城。</p>
+<p>上午的顺风车非常不舒服，坐在一个7座车的最后面，不舒服。</p>]]></description>
+</item></channel>
+</rss>

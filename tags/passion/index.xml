@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Passion - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/passion/</link>
+        <description>Passion - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 16 Jun 2016 23:15:53 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/passion/" rel="self" type="application/rss+xml" /><item>
+    <title>2016-06-16 168 Week 24th Thu Never Lose My Passion!</title>
+    <link>http://localhost:1313/2016-06-16-168-week-24-thu-never-lose-my-passion/</link>
+    <pubDate>Thu, 16 Jun 2016 23:15:53 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2016-06-16-168-week-24-thu-never-lose-my-passion/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年06月16日，星期四，Page 168 of 366。</p>
+<hr>
+<p>推荐朴树的一首歌<a href="http://y.qq.com/#type=song&amp;mid=0012uvVw4eA9MD&amp;tpl=yqq_song_detail&amp;play=0" target="_blank" rel="noopener noreferrer">Colorful Days</a>：</p>
+<h4 id="colorful-days" class="headerLink">
+    <a href="#colorful-days" class="header-mark"></a>0.0.4 Colorful Days</h4><p>Written by：朴树</p>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">text</p>]]></description>
+</item></channel>
+</rss>

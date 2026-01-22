@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>情绪 - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/%E6%83%85%E7%BB%AA/</link>
+        <description>情绪 - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 22 Sep 2016 23:17:35 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%83%85%E7%BB%AA/" rel="self" type="application/rss+xml" /><item>
+    <title>2016-09-22 266 Week 38 Thu 控制你的心态和情绪！</title>
+    <link>http://localhost:1313/2016-09-22-266-week-38-thu-control-yourself/</link>
+    <pubDate>Thu, 22 Sep 2016 23:17:35 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2016-09-22-266-week-38-thu-control-yourself/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年09月22日，星期四，Page 266 of 366。</p>
+<hr>
+<p>每一天都感觉时间过的好快，好害怕！</p>
+<p>平和平等的看待每一个人，不要总觉得自己了不起！</p>
+<p>今天把昨天没搞完的心率传感器搞定了，另外写了一个Demo验证了Android 6.0权限机制，get it！</p>]]></description>
+</item></channel>
+</rss>

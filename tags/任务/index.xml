@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>任务 - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/%E4%BB%BB%E5%8A%A1/</link>
+        <description>任务 - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 23 Aug 2016 23:44:57 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E4%BB%BB%E5%8A%A1/" rel="self" type="application/rss+xml" /><item>
+    <title>2016-08-23 236 Week 34 Feb 好多任务没有开始...</title>
+    <link>http://localhost:1313/2016-08-23-236-week-34-feb-too-much-things/</link>
+    <pubDate>Tue, 23 Aug 2016 23:44:57 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2016-08-23-236-week-34-feb-too-much-things/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月23日，星期二，Page 236 of 366。</p>
+<hr>
+<p>上午搞定了2款表盘，不过并没有写完那篇自定义View的文章，决定留到这2天写完。</p>
+<p>关于自定义模拟时钟，还剩下的任务是<em><strong>指针动画</strong></em>的实现，这个希望明天有所突破！</p>
+<p>下午的话，效率不够高，最近2天都是上午效率很高，但是下午隔了段时间效率就降低了，这个急需改正！</p>
+<p>回顾下我的Task List，还有很多很多没有着手做啊！</p>]]></description>
+</item></channel>
+</rss>

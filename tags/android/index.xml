@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Android - 标签 - Diary Moments</title>
+        <link>http://localhost:1313/tags/android/</link>
+        <description>Android - 标签 - Diary Moments</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 24 Aug 2016 23:20:16 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/android/" rel="self" type="application/rss+xml" /><item>
+    <title>2016-08-24 237 Week 34 Wed Android动画</title>
+    <link>http://localhost:1313/2016-08-24-237-week-34-wed-android-animation/</link>
+    <pubDate>Wed, 24 Aug 2016 23:20:16 &#43;0000</pubDate><author>
+        <name>PCloud</name>
+    </author><guid>http://localhost:1313/2016-08-24-237-week-34-wed-android-animation/</guid>
+    <description><![CDATA[<p><em><strong>By Long Luo</strong></em></p>
+<p>今天是2016年08月24日，星期三，Page 237 of 366。</p>
+<hr>
+<p>又过去了一天，想一想今天做了啥呢？</p>
+<p>写了2篇很短的文章，解决了Watch的2个问题，其他的就是在想完成一个手表的指针切换动画，但是在花费了一个多小时之后仍然没有完成，这个任务只能留到明天再继续了。</p>]]></description>
+</item></channel>
+</rss>
